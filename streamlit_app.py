@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Mi primera ve hoy app 🚀")
+st.title("Mi primera 1 ve hoy app 🚀")
 
 st.write("Hola Jose, ya funciona!")
 
